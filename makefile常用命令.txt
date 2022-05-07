@@ -1,0 +1,4 @@
+gcc xx.c    默认输出a.out
+gcc xx.c -o filename    编译链接生成filename可执行文件
+gcc -c xxx.c   编译xxx.c生成xxx.o文件
+gcc xx.o -o filename    链接生成filename可执行文件
