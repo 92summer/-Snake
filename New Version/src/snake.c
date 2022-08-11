@@ -1,5 +1,5 @@
-#include "snake.h"
-#include "map.h"
+#include "../inc/snake.h"
+#include "../inc/map.h"
 #include <conio.h> //为了用键盘接收函数_getch();
 #include <stdio.h>
 #include <stdlib.h>
