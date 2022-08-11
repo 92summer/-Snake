@@ -1,5 +1,5 @@
-#include"food.h"
-#include"map.h"
+#include"../inc/food.h"
+#include"../inc/map.h"
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
