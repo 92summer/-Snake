@@ -1,7 +1,7 @@
-#include "food.h"
-#include "map.h"
-#include "rules.h"
-#include "snake.h"
+#include "./inc/food.h"
+#include "./inc/map.h"
+#include "./inc/rules.h"
+#include "./inc/snake.h"
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
