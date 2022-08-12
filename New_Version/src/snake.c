@@ -1,10 +1,10 @@
 #include "../inc/snake.h"
 #include "../inc/map.h"
+#include "../inc/rules.h"
 #include <conio.h> //为了用键盘接收函数_getch();
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "rules.h"
 
 
 void SnakeLonger(Snake PtrS,Point posit)//蛇食物长//蛇尾入队
